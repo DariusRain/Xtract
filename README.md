@@ -3,9 +3,9 @@
 
 ### What is xtract
 - A tool for developers to exctract data from websites and store simutaineously
-- Allow devs to write uniform text format from example below or as a package in any project\
-- Capabilites of outputing raw .csv or .json files for further analaysis
-    - Also in the future would like to addd a feture to export to SQL or NOSQL databases
+- Allow devs to write uniform text format from example below or as a package in any project
+- Capabilites of outputing raw .csv or .json files for further analysis
+    - Also in the future would like to add a feture to export to SQL or NOSQL databases
 
 ### Theories in question
 Would love for Xtract to be a web application or a API at the minimum.  Problem is the webdriver client, and how that would be able to that on a server with no browser.
