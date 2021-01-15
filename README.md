@@ -94,6 +94,7 @@ A*n expected examlple output of this*
 
 ]
 ```
+
 ```csv
 title, description, address, website, phone, email, twitter, facebook, instagram
 Brady's Shoe Store, All the shoes you can buy, 1400 Main Ave Ney York NY 08976, www.someshoewebsite.com, 212-123-1234, bradyshoes@zzox.com, , , ,
