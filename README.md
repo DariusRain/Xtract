@@ -13,6 +13,10 @@ Would love for Xtract to be a web application or a API at the minimum.  Problem 
 If that can be implemented then I will have an API where developers can write "Xtract scripts" then recieve through file via various protocols.
 
 
+### Dependencies
+[Selenium web driver java client](https://selenium-release.storage.googleapis.com/3.141/selenium-java-3.141.59.zip)
+[Chrome web driver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+
 ### Example of an Xtract script
 (Note: Will have it so it accepts dictionaries and JSON, I just like this implementation 🤷‍♂️)
 
