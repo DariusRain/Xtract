@@ -17,7 +17,7 @@ If that can be implemented then I will have an API where developers can write "X
 (Note: Will have it so it accepts dictionaries and JSON, I just like this implementation 🤷‍♂️)
 
 *Prototype pseudo version*
-````
+```txt
 CONFIG
     URL: www.google.com
     DRIVER: <WEB_DRIVER_PATH> --headless:true
@@ -47,11 +47,11 @@ SCRAPE
     or (By default)
     Next/none: none
 
-````    
+```   
 
 ### Explainaition
 A*n expected examlple output of this*
-````json
+```json
 // JSON
 [
 
@@ -94,10 +94,10 @@ A*n expected examlple output of this*
 
 ]
 ```
+&nbsp;
 
 ```csv
 |title             |description               |address                         |website                 |phone        |email               |twitter|facebook|instagram|FIELD10|
 |------------------|--------------------------|--------------------------------|------------------------|-------------|--------------------|-------|--------|---------|-------|
 |Brady's Shoe Store| All the shoes you can buy| 1400 Main Ave Ney York NY 08976| www.someshoewebsite.com| 212-123-1234| bradyshoes@zzox.com|       |        |         |       |
-
 ```

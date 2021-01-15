@@ -1,2 +1,4 @@
 import sys
-fileName = open(sys.argv[1])
+def main():
+    fileName = open(sys.argv[1])
+main()
