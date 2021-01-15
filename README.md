@@ -8,7 +8,7 @@
     - Also in the future would like to add a feture to export to SQL or NOSQL databases
 
 ### Theories in question
-Would love for Xtract to be a web application or a API at the minimum.  Problem is the webdriver client, and how that would be able to that on a server with no browser.
+Would love for Xtract to be a web application or a API at the minimum.  Problem is the webdriver client, and how that would be able to run on a server with no browser.
  Aware of [alternatives](https://www.guru99.com/selenium-with-htmlunit-driver-phantomjs.html) but still weary on asynchronous and or dynamic elements from Javascript.
 If that can be implemented then I will have an API where developers can write "Xtract scripts" then recieve through file via various protocols.
 
