@@ -35,10 +35,10 @@ SCRAPE
         description: p#desc
 
         SCOPE-1/contact: div:nth-child(1) --dynamic required
-        address: span#address
-        website: a#site --attr:href
-        phone: span#phone 
-        email: span#email 
+            address: span#address
+            website: a#site --attr:href
+            phone: span#phone 
+            email: span#email 
 
         SCOPE-1/social: div:nth-child(2)
             twitter: ...path...
